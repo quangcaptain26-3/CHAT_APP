@@ -1,0 +1,7 @@
+com\marcus\chat\config\WebSocketConfig.class
+com\marcus\chat\chat\ChatController.class
+com\marcus\chat\chat\ChatMessage$ChatMessageBuilder.class
+com\marcus\chat\ChatApplication.class
+com\marcus\chat\config\WebSocketEventListener.class
+com\marcus\chat\chat\MessageType.class
+com\marcus\chat\chat\ChatMessage.class
